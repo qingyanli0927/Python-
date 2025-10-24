@@ -14,7 +14,7 @@
 - **运行平台**: 跨平台（Windows/macOS/Linux）
 
 ### 项目结构
-
+```plain
 main/
 ├── 📁 src/                          # 源代码目录
 │   ├── 📁 images/                   # 图像资源目录
@@ -44,7 +44,7 @@ main/
 ├── 📄 data.txt                      # 游戏进度存档文件
 ├── 📄 requirements.txt              # Python依赖包列表
 └── 📄 README.md                     # 项目说明文件
-
+```
 ## 模块介绍
 ### 游戏状态管理
 游戏采用状态机设计，包含以下状态：
